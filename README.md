@@ -229,7 +229,7 @@ SMART-Supply-Chain-Insights-Dashboard/
 
 ### Option 1 — View the live report
 
-Open the [interactive Power BI dashboard]( https://app.powerbi.com/view?r=eyJrIjoiNzc1YzdkYWQtZDlkZC00MDhkLWJhNGEtZDg4YzRmMDI5NTljIiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9 ).
+Open the [interactive Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzc1YzdkYWQtZDlkZC00MDhkLWJhNGEtZDg4YzRmMDI5NTljIiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9).
 
 ### Option 2 — Explore the source files
 
